@@ -1,10 +1,10 @@
-# Amigo Secreto
+# Desafio Amigo Secreto
 
 Um aplicativo web simples para realizar sorteios de amigo secreto. Os usuários podem adicionar nomes de amigos e sortear um deles aleatoriamente.
 
 ## Descrição
 
-O "Amigo Secreto" é uma aplicação que permite que grupos de amigos realizem sorteios de forma divertida e interativa. Os usuários podem adicionar os nomes de seus amigos e, em seguida, sortear um amigo secreto aleatoriamente.
+O "Desafio Amigo Secreto" é uma aplicação que permite que grupos de amigos realizem sorteios de forma divertida e interativa. Os usuários podem adicionar os nomes de seus amigos e, em seguida, sortear um amigo secreto aleatoriamente.
 
 ## Funcionalidades
 
@@ -23,5 +23,5 @@ O "Amigo Secreto" é uma aplicação que permite que grupos de amigos realizem s
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
-   cd amigo-secreto
+   git clone https://github.com/GehMarques/Desafio_Amigo_Secreto.git
+   cd Desafio_Amigo_Secreto
